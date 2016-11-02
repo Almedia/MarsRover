@@ -44,7 +44,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MarsRover.Core\MarsRover.Core.csproj">
+    <ProjectReference Include="..\MarsRover.Core\MarsRover.Core.csproj">
       <Project>{A9AD63DA-1E8C-4A15-A2DA-593D38389A25}</Project>
       <Name>MarsRover.Core</Name>
     </ProjectReference>

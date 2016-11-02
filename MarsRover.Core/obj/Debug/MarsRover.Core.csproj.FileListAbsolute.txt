@@ -1,0 +1,9 @@
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRover.Core\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRover.Core\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRover.Core\obj\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRover.Core\obj\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRover.Core\obj\Debug\MarsRover.Core.csprojResolveAssemblyReference.cache
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Core\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Core\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Core\obj\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Core\obj\Debug\MarsRover.Core.pdb

@@ -9,4 +9,3 @@ C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bi
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\nunit.framework.xml
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.exe
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.pdb
-C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.csprojResolveAssemblyReference.cache
