@@ -1,0 +1,15 @@
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\MarsRover.Test.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\MarsRover.Test.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Castle.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Moq.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\nunit.framework.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Rover.Command.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Rover.Command.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Castle.Core.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\Moq.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\bin\Debug\nunit.framework.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\obj\Debug\MarsRover.Test.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\MarsRover.Test\obj\Debug\MarsRover.Test.pdb

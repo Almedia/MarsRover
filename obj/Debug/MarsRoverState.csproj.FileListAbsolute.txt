@@ -1,0 +1,12 @@
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\MarsRoverState.exe.config
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\Castle.Core.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\Moq.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\nunit.framework.dll
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\Castle.Core.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\Moq.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\bin\Debug\nunit.framework.xml
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\obj\Debug\MarsRoverState.csprojResolveAssemblyReference.cache
