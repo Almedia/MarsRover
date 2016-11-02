@@ -21,3 +21,8 @@ C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\bin\Debug\nunit.framework.xml
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\obj\Debug\MarsRoverState.csprojResolveAssemblyReference.cache
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\obj\Debug\MarsRoverState.exe
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\obj\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\bin\Debug\MarsRoverState.exe.config
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\bin\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\bin\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\obj\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\obj\Debug\MarsRoverState.pdb

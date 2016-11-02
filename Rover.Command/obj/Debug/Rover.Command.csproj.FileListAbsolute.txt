@@ -12,3 +12,10 @@ C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\bin\Debug\MarsRov
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.csprojResolveAssemblyReference.cache
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.dll
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\bin\Debug\Rover.Command.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\bin\Debug\Rover.Command.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\obj\Debug\Rover.Command.csprojResolveAssemblyReference.cache
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\obj\Debug\Rover.Command.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\Rover.Command\obj\Debug\Rover.Command.pdb

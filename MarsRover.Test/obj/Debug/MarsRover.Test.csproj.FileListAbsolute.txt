@@ -28,3 +28,4 @@ C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\MarsRover.Test\bin\Debug\nunit.
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\MarsRover.Test\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\MarsRover.Test\obj\Debug\MarsRover.Test.dll
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\MarsRover.Test\obj\Debug\MarsRover.Test.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\MarsRover.Test\obj\Debug\MarsRover.Test.csprojResolveAssemblyReference.cache
