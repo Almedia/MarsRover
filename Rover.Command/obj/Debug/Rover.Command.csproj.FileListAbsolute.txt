@@ -5,3 +5,10 @@ C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\Ro
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\Rover.Command\obj\Debug\Rover.Command.csprojResolveAssemblyReference.cache
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\Rover.Command\obj\Debug\Rover.Command.dll
 C:\Users\bahadir.ozdemir\Documents\Visual Studio 2015\Projects\MarsRoverState\Rover.Command\obj\Debug\Rover.Command.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\bin\Debug\Rover.Command.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\bin\Debug\Rover.Command.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.csprojResolveAssemblyReference.cache
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover2\Rover.Command\obj\Debug\Rover.Command.pdb
