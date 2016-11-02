@@ -11,32 +11,37 @@ namespace Rover.Command
     {
         private readonly Dictionary<string, IState> ravorState;
 
-        public RoverCommand() {
+        public RoverCommand()
+        {
             ravorState = new Dictionary<string, IState>();
             ravorState.Add(RoverDirection.North, new NorthState());
             ravorState.Add(RoverDirection.East, new EastState());
             ravorState.Add(RoverDirection.South, new SouthState());
             ravorState.Add(RoverDirection.West, new WestState());
         }
-        public MarsRoverModel Execute(Point range, Point startPoint, string direction, string movementList)
+
+        public MarsRoverModel Execute(Range range, Point startPoint, string direction, string movementList)
         {
 
-            var rover = MarsRoverModel.New(range, startPoint, direction,movementList);
+            var rover = MarsRoverModel.New(range, startPoint, direction, movementList);
             var roverPosition = new RoverPosition()
             {
-                CurrentPosition = rover.CurrentPosition,
-                RoverDirection = rover.CurrentDirection
+                CurrentPosition = new Point(startPoint.X,startPoint.Y),
+                RoverDirection = direction
             };
-
-            if (rover.RoverMovements.Count > 0)
+            try
             {
-                foreach (var movement in rover.RoverMovements)
+                if (rover.RoverMovements.Count > 0)
                 {
-                    Context context = new Context(ravorState[rover.CurrentDirection], roverPosition);
-                    context.Execute(movement.ToString());
-                    rover.ChangePosition(roverPosition);
+                    foreach (var movement in rover.RoverMovements)
+                    {
+                        Context context = new Context(ravorState[rover.CurrentDirection], roverPosition);
+                        context.Execute(movement.ToString());
+                        rover.ChangePosition(roverPosition);
+                    }
                 }
             }
+            catch { };
             return rover;
         }
     }

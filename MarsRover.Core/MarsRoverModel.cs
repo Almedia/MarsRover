@@ -8,7 +8,7 @@ namespace MarsRover.Core
 {
     public class MarsRoverModel
     {
-        private Point range;
+        private Range range;
 
         private Point startPoint;
 
@@ -18,10 +18,11 @@ namespace MarsRover.Core
 
         private List<char> roverMovements;
 
-        public Point Range
+        public Range Range
         {
             get { return range; }
         }
+
 
         public Point StartPoint
         {
@@ -43,12 +44,12 @@ namespace MarsRover.Core
             get { return roverMovements; }
         }
 
-        public static MarsRoverModel New(Point range, Point startPoint, string currentDirection,string movements)
+        public static MarsRoverModel New(Range range, Point startPoint, string currentDirection,string movements)
         {
             return new MarsRoverModel(range, startPoint, currentDirection,movements);
         }
 
-        public MarsRoverModel(Point range, Point startPoint, string curretDirection,string movements)
+        public MarsRoverModel(Range range, Point startPoint, string curretDirection,string movements)
         {
             if (!(range.X > startPoint.X))
                 throw new Exception("StartPoint X must be in Range");
@@ -67,8 +68,18 @@ namespace MarsRover.Core
 
         public void ChangePosition(RoverPosition position)
         {
+            if (position.CurrentPosition.X > range.X || position.CurrentPosition.X < Range.minX)
+            {
+                throw  new Exception("End of X Coordinates");
+            }
+
+            if (position.CurrentPosition.Y > range.Y || position.CurrentPosition.Y < Range.minY)
+            {
+                throw new Exception("End of Y Coordinates");
+            }
+
             this.currentDirection = position.RoverDirection;
-            this.currentPosition = position.CurrentPosition;
+            this.currentPosition = new Point(position.CurrentPosition.X, position.CurrentPosition.Y);
         }
     }
 }

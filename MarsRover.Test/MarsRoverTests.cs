@@ -24,7 +24,7 @@ namespace MarsRover.Test
         public void When_Start_Point_Out_Of_Range_Then_Throw_An_Exception(int rangeX, int rangeY, int pointX, int pointY,
             string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             Assert.Throws<Exception>(() => command.Execute(range, point, RoverDirection.North, movementList));
@@ -35,7 +35,7 @@ namespace MarsRover.Test
         [Test]
         public void When_Rover_Input_Is_Not_Correct_Then_Throw_Exception(int rangeX, int rangeY, int pointX, int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             Assert.Throws<Exception>(() => command.Execute(range, point, RoverDirection.North, movementList));
@@ -47,7 +47,7 @@ namespace MarsRover.Test
         [Test]
         public void When_Roven_Inputs_Include_Empty_Space_Then_Throw_An_Exception(int rangeX, int rangeY, int pointX, int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);            
             Assert.Throws<Exception>(() => command.Execute(range, point, RoverDirection.North, movementList));
         }

@@ -15,3 +15,7 @@ C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\MarsRover.Core\bin\Debug\MarsRov
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Core.pdb
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\MarsRover.Core\obj\Debug\MarsRover.Core.dll
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\MarsRover.Core\obj\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\MarsRover.Core\bin\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\MarsRover.Core\bin\Debug\MarsRover.Core.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\MarsRover.Core\obj\Debug\MarsRover.Core.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\MarsRover.Core\obj\Debug\MarsRover.Core.pdb

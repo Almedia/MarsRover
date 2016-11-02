@@ -47,6 +47,7 @@
     <Compile Include="Point.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MarsRoverModel.cs" />
+    <Compile Include="Range.cs" />
     <Compile Include="RoverAction.cs" />
     <Compile Include="RoverDirection.cs" />
     <Compile Include="RoverPosition.cs" />

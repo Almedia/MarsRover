@@ -26,3 +26,14 @@ C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\bin\Debug\MarsRoverState.exe
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\bin\Debug\MarsRoverState.pdb
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\obj\Debug\MarsRoverState.exe
 C:\Users\bahadir.ozdemir\Source\Repos\MarsRover\obj\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\Castle.Core.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\Moq.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\nunit.framework.dll
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\MarsRoverState.exe.config
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\MarsRoverState.pdb
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\Castle.Core.xml
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\Moq.xml
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\bin\Debug\nunit.framework.xml
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\obj\Debug\MarsRoverState.exe
+C:\Users\bahadir.ozdemir\Source\Repos\MarsRover3\obj\Debug\MarsRoverState.pdb

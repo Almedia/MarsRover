@@ -24,7 +24,7 @@ namespace MarsRover.Test
         public void When_Rover_First_State_is_North_Then_After_Turn_Left_Must_Be_West(int rangeX, int rangeY, int pointX,
             int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover = command.Execute(range, point, RoverDirection.North, movementList);
@@ -36,7 +36,7 @@ namespace MarsRover.Test
         public void When_Rover_First_State_is_South_Then_After_Turn_Left_Must_Be_East(int rangeX, int rangeY, int pointX,
            int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover = command.Execute(range, point, RoverDirection.South, movementList);
@@ -48,7 +48,7 @@ namespace MarsRover.Test
         public void When_Rover_First_State_is_East_Then_After_Turn_Left_Must_Be_North(int rangeX, int rangeY, int pointX,
            int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover = command.Execute(range, point, RoverDirection.East, movementList);
@@ -60,7 +60,7 @@ namespace MarsRover.Test
         public void When_Rover_First_State_is_West_Then_After_Turn_Lest_Must_Be_South(int rangeX, int rangeY, int pointX,
            int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover = command.Execute(range, point, RoverDirection.West, movementList);
@@ -71,7 +71,7 @@ namespace MarsRover.Test
         [Test]
         public void When_Rover_MovementList_Given_Then_Execute_Rules_(int rangeX, int rangeY, int pointX, int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover=command.Execute(range, point, RoverDirection.North, movementList);
@@ -84,13 +84,26 @@ namespace MarsRover.Test
         [Test]
         public void When_Rover_MovementList_Given_Then_Execute_Rules(int rangeX, int rangeY, int pointX, int pointY, string movementList)
         {
-            Point range = new Point(rangeX, rangeY);
+            Range range = new Range(rangeX, rangeY);
             Point point = new Point(pointX, pointY);
 
             var rover=command.Execute(range, point, RoverDirection.East, movementList);
             Assert.AreEqual(rover.CurrentDirection, RoverDirection.East);
             Assert.AreEqual(rover.CurrentPosition.X, 5);
             Assert.AreEqual(rover.CurrentPosition.Y, 1);
+        }
+
+        [TestCase(5, 5, 3, 3, "MMMMM")]
+        [Test]
+        public void When_Rover_MovementList_Given_Out_Of_Range_Then_Return_Last_Status(int rangeX, int rangeY, int pointX, int pointY, string movementList)
+        {
+            Range range = new Range(rangeX, rangeY);
+            Point point = new Point(pointX, pointY);
+
+            var rover = command.Execute(range, point, RoverDirection.North, movementList);
+            Assert.AreEqual(rover.CurrentDirection, RoverDirection.North);
+            Assert.AreEqual(rover.CurrentPosition.X, 3);
+            Assert.AreEqual(rover.CurrentPosition.Y, 5);
         }
     }
 }
